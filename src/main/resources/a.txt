@@ -1,0 +1,2 @@
+clear
+execute_script b.txt
